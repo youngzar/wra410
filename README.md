@@ -6,7 +6,7 @@
 
 3. Include two images. **Added msu banner to home page**
 
-4. Use a table to format the Grading Scale on the Assignments page.
+4. Use a table to format the Grading Scale on the Assignments page. **Done**
 
 5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs. **Changed link colors to blue, changed group titles from numbers to letters, made the names into a list instead of on one line**
 
@@ -16,7 +16,8 @@
 
 ## Additional Changes 
 
-1. Made a strike through any past weeks on the schedule 
+1. Made a strike through any past weeks on the schedule
+2. Added css to create grid for grading table
 
 
 ## Grading Criteria
