@@ -18,4 +18,5 @@
 
 1. Made a strike through any past weeks on the schedule
 2. Added css to create grid for grading table, also titles for the table
-3. added titles and reorganzied contact page 
+3. Added titles and reorganzied contact page 
+4. Made the resources page with gray tiles like student groups page  
