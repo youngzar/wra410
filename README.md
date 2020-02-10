@@ -17,13 +17,5 @@
 ## Additional Changes 
 
 1. Made a strike through any past weeks on the schedule
-2. Added css to create grid for grading table
-
-
-## Grading Criteria
-
-* 100-90 points: You accomplish all of the required changes and you include some new html/css commands and/or your design does an especially good job of meeting the needs of your audience (students in this course). 
-
-* 89-80 points: You accomplish all of the required changes.
-
-* 79-70 points: You don't accomplish all of the required changes
+2. Added css to create grid for grading table, also titles for the table
+3. added titles and reorganzied contact page 
