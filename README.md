@@ -1,13 +1,3 @@
-# Assignment: One HTML and CSS
-
-For this assignment, you will clone Dr. John Monberg's wra410 repository.
-
-You will update your README.md file so that I can learn about the changes you made.
-
-If I can't find your changes, I can't give you credit for them
-
-Revise the following section in your README.md file with a short description of what you've accomplished.
-
 ## Required Changes to WRA 410
 
 1. Make changes to the background color of a page and a div. **Changed all pages background to white and the scheldue wrapper div to white to match**
@@ -23,6 +13,10 @@ Revise the following section in your README.md file with a short description of 
 6. Add navgation to the Schedule webpage. **Done**
 
 7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
+
+## Additional Changes 
+
+1. Made a strike through any past weeks on the schedule 
 
 
 ## Grading Criteria
