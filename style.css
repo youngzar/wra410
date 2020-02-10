@@ -81,6 +81,8 @@ h1, h2, h3  {
   text-align: left;
 }
 
+/* new css */
+
 table {
   width: 100%;
 }
@@ -89,3 +91,13 @@ td,  tr,  th,  table {
   border: thin solid black;
   border-collapse: collapse;
   padding: 1rem; }
+
+#resource-group {
+    clear: both;
+    margin: 20px;
+    border: 20px;
+    padding: 10px;
+    background-color:  #d3d3d3;
+    color: black;
+    text-align: left;
+  }
