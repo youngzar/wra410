@@ -12,7 +12,7 @@
 
 6. Add navgation to the Schedule webpage. **Done**
 
-7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
+7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier. **Changed grid columns to 4fr 6fr 5fr** 
 
 ## Additional Changes 
 
