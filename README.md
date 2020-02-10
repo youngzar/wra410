@@ -4,7 +4,7 @@
 
 2. Use a new font. **Changed font from Sarabun to Neuton**
 
-3. Include two images.
+3. Include two images. **Added msu banner to home page**
 
 4. Use a table to format the Grading Scale on the Assignments page.
 
