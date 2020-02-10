@@ -10,9 +10,9 @@ Revise the following section in your README.md file with a short description of 
 
 ## Required Changes to WRA 410
 
-1. Make changes to the background color of a page and a div.
+1. Make changes to the background color of a page and a div. 
 
-2. Use a new font.
+2. Use a new font. ** Changed font from Sarabun to Neuton **
 
 3. Include two images.
 
